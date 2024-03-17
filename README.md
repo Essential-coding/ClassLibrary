@@ -1,1 +1,1 @@
-# ClassLibrary
+# ClassLibrary projekt C# Konsolapplikation.
